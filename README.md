@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on MZ Group
-- 🌱 I’m currently learning Javascript and Cypress
+- 🌱 I’m currently learning Javascript / Cypress / Postman
 - 👯 I’m looking to collaborate on Software Testing and Quality Culture
 <!--
 **driuzzo/driuzzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
