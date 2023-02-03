@@ -14,13 +14,14 @@
 <img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driuzzo&layout=compact&langs_count=3&theme=dracula&hide=Rich%20Text%20Format"/>
 </div>
   
- ##  
-
+ ##
+  
 <div style="display: inline_block"><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</p>
 </div>
       
 <div>
