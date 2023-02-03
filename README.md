@@ -1,4 +1,4 @@
-<h1 align="center">Hello! My name is Adriano Driuzzo and I am a Software Test Analyst </h1>
+<h1 align="center">Hello! My name is Adriano Driuzzo and I am a Software Test Analyst. </h1>
 
 - 🔭 I’m currently working with Javascript, Cypress and Postman
 
