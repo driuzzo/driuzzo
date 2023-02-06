@@ -28,6 +28,8 @@
       <img width="50" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> </a>
     <a href="https://trello.com" target="_blank" rel="noreferrer">
       <img width="50" alt="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /> </a>
+    <a href="https://clickup.com/" target="_blank" rel="noreferrer">
+      <img width="50" alt="ClickUp" src="https://clickup.com/landing/images/clickup-logo-gradient.png" /> </a>
     <a href="https://www.npmjs.com" target="_blank" rel="noreferrer">
       <img width="50" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> </a>
     <a href="https://yarnpkg.com" target="_blank" rel="noreferrer">
