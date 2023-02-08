@@ -48,6 +48,8 @@
       <img width="50" alt="Selenium" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" /> </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
       <img width="50" alt="Postman" src="https://www.svgrepo.com/download/354202/postman-icon.svg" /> </a>
+    <a href="https://github.com/postmanlabs/newman/" target="_blank" rel="noreferrer">
+      <img width="50" alt="Newman" src="https://postman-toolboxes2.s3.amazonaws.com/assets/newman/newman.png" /> </a>
     <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
       <img width="50" alt="Mocha" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" /> </a>
     <a href="https://pytest.org/" target="_blank" rel="noreferrer">
