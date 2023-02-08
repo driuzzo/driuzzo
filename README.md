@@ -26,6 +26,8 @@
       <img width="50" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </a>
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
       <img width="50" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> </a>
+    <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer">
+      <img width="50" alt="PyCharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /> </a>
     <a href="https://clickup.com/" target="_blank" rel="noreferrer">
       <img width="50" alt="ClickUp" src="https://clickup.com/landing/images/clickup-logo-gradient.png" /> </a>
     <a href="https://trello.com" target="_blank" rel="noreferrer">
