@@ -50,6 +50,8 @@
       <img width="50" alt="Postman" src="https://www.svgrepo.com/download/354202/postman-icon.svg" /> </a>
     <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
       <img width="50" alt="Mocha" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" /> </a>
+    <a href="https://pytest.org/" target="_blank" rel="noreferrer">
+      <img width="50" alt="Pytest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" /> </a>
   </p>
 </div>
 
