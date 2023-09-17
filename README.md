@@ -78,7 +78,7 @@
 </div>
 
 <div>
-  <h3 align="left">Project Tools:</h3>
+  <h3 align="left">Project Management Tools:</h3>
   <p align="left">
     <a href="https://clickup.com/" target="_blank" rel="noreferrer">
       <img width="50" alt="ClickUp" src="https://clickup.com/landing/images/clickup-logo-gradient.png" /> </a>
