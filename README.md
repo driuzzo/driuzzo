@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with Javascript, Cypress and Postman
 
-- 🌱 I’m currently learning **JUnit Testing**
+- 🌱 I’m currently learning **JUnit**
 
 - 👯 I’m looking to collaborate on Software Quality community
 
