@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **adriano.driuzzo@hotmail.com**
 
+- Take a look at my projects <a href="https://github.com/driuzzo/projects">here</a>
+
 <div>
   <a href="https://github.com/driuzzo">
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=driuzzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
