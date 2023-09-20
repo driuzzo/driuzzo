@@ -1,12 +1,12 @@
 <h1 align="center">Hello! My name is Adriano Driuzzo and I am a Software Test Analyst. </h1>
 
-- 🔭 I’m currently working with Javascript, Cypress and Postman
+- I’m currently working with Javascript, Cypress and Postman
 
-- 🌱 I’m currently learning **JUnit**
+- I’m currently learning **JUnit**
 
-- 👯 I’m looking to collaborate on Software Quality community
+- I’m looking to collaborate on Software Quality community
 
-- 📫 How to reach me **adriano.driuzzo@hotmail.com**
+- How to reach me **adriano.driuzzo@hotmail.com**
 
 - Take a look at my projects <a href="https://github.com/driuzzo/projects">here</a>
 
