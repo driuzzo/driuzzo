@@ -8,7 +8,7 @@
 
 - How to reach me **adriano.driuzzo@hotmail.com**
 
-- Take a look at my projects <a href="https://github.com/driuzzo/projects">here</a>
+- Take a look at my projects <a href="https://github.com/driuzzo/projects">**here**</a>
 
 <div>
   <a href="https://github.com/driuzzo">
