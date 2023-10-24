@@ -6,6 +6,8 @@
 
 - I’m looking to collaborate on Software Quality community
 
+- Fun fact: Because of a bug, I was able to buy my refrigerator from a website that didn't deliver to my address.
+
 - How to reach me **adriano.driuzzo@hotmail.com**
 
 - Take a look at my projects <a href="https://github.com/driuzzo/projects">**here**</a>
