@@ -50,6 +50,8 @@
   <p align="left">
     <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
       <img width="50" alt="Cypress" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" /> </a>
+    <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+      <img width="50" alt="Playwright" src="https://playwright.dev/img/playwright-logo.svg" /> </a>
     <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
       <img width="50" alt="Selenium" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" /> </a>
   </p>
