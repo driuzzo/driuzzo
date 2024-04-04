@@ -2,7 +2,7 @@
 
 - I’m currently working with Javascript and Cypress.
 
-- I’m currently learning **JUnit**
+- I’m currently learning **Playwright**
 
 - I’m looking to collaborate on Software Quality community
 
