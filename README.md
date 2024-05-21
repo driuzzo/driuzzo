@@ -87,7 +87,7 @@
   <h3 align="left">Project Management Tools:</h3>
   <p align="left">
     <a href="https://clickup.com/" target="_blank" rel="noreferrer">
-      <img width="50" alt="ClickUp" src="https://clickup.com/landing/images/clickup-logo-gradient.png" /> </a>
+      <img width="50" alt="ClickUp" src="https://seeklogo.com/images/C/clickup-black-logo-71CD0C462C-seeklogo.com.png" /> </a>
     <a href="https://trello.com" target="_blank" rel="noreferrer">
       <img width="50" alt="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /> </a>
     <a href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer">
