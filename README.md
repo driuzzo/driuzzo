@@ -60,6 +60,8 @@
 <div>
   <h3 align="left">API Testing:</h3>
   <p align="left">
+    <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+      <img width="50" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> </a>
     <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
       <img width="50" alt="Cypress" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" /> </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
