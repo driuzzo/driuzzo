@@ -54,6 +54,8 @@
       <img width="50" alt="Playwright" src="https://playwright.dev/img/playwright-logo.svg" /> </a>
     <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
       <img width="50" alt="Selenium" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" /> </a>
+     <a href="https://webdriver.io/" target="_blank" rel="noreferrer">
+      <img width="50" alt="Selenium" src="https://yt3.googleusercontent.com/ecLk8vo6z_sYusW4cqaVd-wuYZn8ZGDuseuyNUF5G0a3nRdR4QqGKo14laVPW2rY3dmbqTr09Hw=s160-c-k-c0x00ffffff-no-rj" /> </a>
   </p>
 </div>
 
