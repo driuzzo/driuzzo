@@ -55,7 +55,7 @@
     <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
       <img width="50" alt="Selenium" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" /> </a>
      <a href="https://webdriver.io/" target="_blank" rel="noreferrer">
-      <img width="50" alt="Selenium" src="https://yt3.googleusercontent.com/ecLk8vo6z_sYusW4cqaVd-wuYZn8ZGDuseuyNUF5G0a3nRdR4QqGKo14laVPW2rY3dmbqTr09Hw=s160-c-k-c0x00ffffff-no-rj" /> </a>
+      <img width="50" alt="webdriverio" src="https://yt3.googleusercontent.com/ecLk8vo6z_sYusW4cqaVd-wuYZn8ZGDuseuyNUF5G0a3nRdR4QqGKo14laVPW2rY3dmbqTr09Hw=s160-c-k-c0x00ffffff-no-rj" /> </a>
   </p>
 </div>
 
@@ -91,7 +91,7 @@
   <h3 align="left">Project Management Tools:</h3>
   <p align="left">
     <a href="https://clickup.com/" target="_blank" rel="noreferrer">
-      <img width="50" alt="ClickUp" src="https://seeklogo.com/images/C/clickup-black-logo-71CD0C462C-seeklogo.com.png" /> </a>
+      <img width="50" alt="ClickUp" src="https://clickup.com/assets/brand/logo-v3-clickup-light.svg" /> </a>
     <a href="https://trello.com" target="_blank" rel="noreferrer">
       <img width="50" alt="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /> </a>
     <a href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer">
