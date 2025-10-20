@@ -14,7 +14,7 @@
 
 <div>
   <a href="https://github.com/driuzzo">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=driuzzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <!--<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=driuzzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
     <img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driuzzo&layout=compact&langs_count=4&theme=dracula&hide=Rich%20Text%20Format" />
   </div>
   
