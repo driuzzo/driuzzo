@@ -96,6 +96,8 @@
       <img width="50" alt="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /> </a>
     <a href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer">
       <img width="50" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /> </a>
+     <a href="https://azure.microsoft.com/pt-br/products/devops/?msockid=1e892c1013ed69460515382912946857" target="_blank" rel="noreferrer">
+      <img width="50" alt="Azure Devops" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" /> </a>
   </p>
 </div>
 
